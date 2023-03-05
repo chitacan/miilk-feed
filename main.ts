@@ -1,12 +1,12 @@
 import { Feed } from "npm:feed@4";
 import { buildUrl } from "https://deno.land/x/url_builder/mod.ts";
 
-const HOST = "https://themiilk.com/";
+const HOST = "https://themiilk.com";
 const CDN_HOST = "https://dsi523du1o5iq.cloudfront.net";
 
 export function generateFeed(articles): string {
   const feedRoot = new Feed({
-    title: "✨ 실리콘밸리 혁신 미디어 - 더밀크",
+    title: "더밀크",
     description:
       "실리콘밸리 혁신 미디어. 더밀크는 미래 산업의 인사이트와 미국 주식 정보를 전달합니다.",
     link: HOST,
@@ -24,18 +24,15 @@ export function generateFeed(articles): string {
   });
 
   articles.forEach((article) => {
-    console.log(
-      article.hero_image_url,
-      buildUrl(CDN_HOST, {
-        path: ["fit-in", "320x0", article.hero_image_url],
-      }))
     feedRoot.addItem({
       title: article.title,
-      id: article.id,
+      id: buildUrl(HOST, {
+        path: ["articles", article.article_id],
+      }),
       link: buildUrl(HOST, {
         path: ["articles", article.nickname],
       }),
-      description: "",
+      description: article.sub_title,
       content: article.first_text,
       date: new Date(article.published_at),
       image: buildUrl(CDN_HOST, {
