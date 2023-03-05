@@ -2,6 +2,8 @@ name: create feed
 
 on:
   push:
+    paths:
+      - '**.ts'
   workflow_dispatch:
   schedule:
     - cron:  '*/60 * * * *'

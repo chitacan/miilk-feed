@@ -2,7 +2,7 @@ import { Feed } from "npm:feed@4";
 import { buildUrl } from "https://deno.land/x/url_builder/mod.ts";
 
 const HOST = "https://themiilk.com/";
-const CDN_HOST = "https://dsi523du1o5iq.cloudfront.net/";
+const CDN_HOST = "https://dsi523du1o5iq.cloudfront.net";
 
 export function generateFeed(articles): string {
   const feedRoot = new Feed({
@@ -24,11 +24,16 @@ export function generateFeed(articles): string {
   });
 
   articles.forEach((article) => {
+    console.log(
+      article.hero_image_url,
+      buildUrl(CDN_HOST, {
+        path: ["fit-in", "320x0", article.hero_image_url],
+      }))
     feedRoot.addItem({
       title: article.title,
       id: article.id,
       link: buildUrl(HOST, {
-        path: ["articles", article.nick_name],
+        path: ["articles", article.nickname],
       }),
       description: "",
       content: article.first_text,
@@ -44,7 +49,6 @@ export function generateFeed(articles): string {
   return feedRoot.json1();
 }
 
-// Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
   const response = await fetch("https://themiilk.com/api/articles/main");
   const articles = await response.json().then((d) => Object.values(d).flat());
