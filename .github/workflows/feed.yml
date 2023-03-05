@@ -1,0 +1,33 @@
+name: create feed
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/60 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: [self-hosted, cmms]
+    steps:
+    - uses: actions/checkout@v2
+    - uses: denoland/setup-deno@v1
+      with:
+        deno-version: v1.x
+    - name: prepare branch
+      run: |
+        git branch -D feed || true
+        git checkout --orphan feed
+    - name: Run script
+      run: |
+        deno run -A main.ts
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        git rm --cached -r .
+        git add -f feed.json
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || true
+        git push -f origin feed

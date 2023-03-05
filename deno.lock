@@ -1,0 +1,32 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/url_builder@v1.1.0/mod.ts": "b40d5d73678785db2b140389d45b5a8fd9aedc8f711f1e282210340e680a7c53",
+    "https://deno.land/x/url_builder@v1.1.0/models/build_url_options.ts": "950e2ed00006df897bdf0e00d3cde27b467089817ce5f8b7fb9892af5cc8d0d9",
+    "https://deno.land/x/url_builder@v1.1.0/models/query_params.ts": "3f8c5fddac5315ff73ca0505f3180ed5a9a851b001a588e4d91803839c58a66c",
+    "https://deno.land/x/url_builder@v1.1.0/url_builder.ts": "0fcc882ca9590bdfe1ff7318c43abdb15705e8eb3b9ed487c91fc08285ade5d6"
+  },
+  "npm": {
+    "specifiers": {
+      "feed@4": "feed@4.2.2"
+    },
+    "packages": {
+      "feed@4.2.2": {
+        "integrity": "sha512-u5/sxGfiMfZNtJ3OvQpXcvotFpYkL0n9u9mM2vkui2nGo8b4wvDkJ8gAkYqbA8QpGyFCv3RK0Z+Iv+9veCS9bQ==",
+        "dependencies": {
+          "xml-js": "xml-js@1.6.11"
+        }
+      },
+      "sax@1.2.4": {
+        "integrity": "sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==",
+        "dependencies": {}
+      },
+      "xml-js@1.6.11": {
+        "integrity": "sha512-7rVi2KMfwfWFl+GpPg6m80IVMWXLRjO+PxTq7V2CDhoGak0wzYzFgUY2m4XJ47OGdXd8eLE8EmwfAmdjw7lC1g==",
+        "dependencies": {
+          "sax": "sax@1.2.4"
+        }
+      }
+    }
+  }
+}
