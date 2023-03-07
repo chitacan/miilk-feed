@@ -38,9 +38,9 @@ export function generateFeed(articles): string {
       image: buildUrl(CDN_HOST, {
         path: ["fit-in", "320x0", article.hero_image_url],
       }),
-      author: article.author_list.map((author) => {
+      author: article.author_list?.map((author) => {
         return { name: author.name };
-      }),
+      })
     });
   });
   return feedRoot.json1();
