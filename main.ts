@@ -1,6 +1,8 @@
 import { Feed } from "npm:feed@4";
 import { buildUrl } from "https://deno.land/x/url_builder/mod.ts";
+import { parse } from "https://deno.land/std/flags/mod.ts";
 
+const args = parse(Deno.args);
 const HOST = "https://themiilk.com";
 const CDN_HOST = "https://dsi523du1o5iq.cloudfront.net";
 
@@ -32,23 +34,42 @@ export function generateFeed(articles): string {
       link: buildUrl(HOST, {
         path: ["articles", article.nickname],
       }),
-      description: article.sub_title,
-      content: article.first_text,
+      content: article.sub_title,
       date: new Date(article.published_at),
       image: buildUrl(CDN_HOST, {
         path: ["fit-in", "320x0", article.hero_image_url],
       }),
       author: article.author_list?.map((author) => {
         return { name: author.name };
-      })
+      }),
     });
   });
   return feedRoot.json1();
 }
 
-if (import.meta.main) {
-  const response = await fetch("https://themiilk.com/api/articles/main");
-  const articles = await response.json().then((d) => Object.values(d).flat());
-  const feed = generateFeed(articles);
-  await Deno.writeTextFileSync("feed.json", feed);
+if (!import.meta.main) {
+  Deno.exit(0);
 }
+
+if (args["help"]) {
+  console.log(`
+  Usage
+    $ deno run -A main.ts
+
+  Options
+    --write-response  write response in "response.json" file
+`);
+  Deno.exit(0);
+}
+
+const response = await fetch("https://themiilk.com/api/articles/main");
+const articles = await response.json().then(async (d) => {
+  if (args["write-response"]) {
+    await Deno.writeTextFileSync("response.json", JSON.stringify(d, null, 2));
+    console.log("response created in 'response.json' file.");
+  }
+  return Object.values(d).flat();
+});
+const feed = generateFeed(articles);
+await Deno.writeTextFileSync("feed.json", feed);
+console.log("feed created in 'feed.json' file.");
