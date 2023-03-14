@@ -1,0 +1,123 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "더밀크",
+    "home_page_url": "https://themiilk.com",
+    "description": "실리콘밸리 혁신 미디어. 더밀크는 미래 산업의 인사이트와 미국 주식 정보를 전달합니다.",
+    "icon": "https://assets.themiilk.com/favicon/apple-touch-icon.png",
+    "author": {
+        "name": "chitacan",
+        "url": "https://github.com/chitacan"
+    },
+    "items": [
+        {
+            "id": "https://themiilk.com/articles/5803",
+            "content_html": "[스트릭틀리 VC 인터뷰] 샘 알트만 오픈AI 공동창업자 겸 CEO\n●GPT-4 출시가 임박했다는 건 가짜 뉴스 \n●GPT-3에 비해 GPT-4가 늦어지는건 완성도에 대한 확신이 필요해서 \n●GPT-4는 텍스트를 넘어 동영상 출력도 가능할 것 \n●MS 그리고 사티아 나델라 CEO는 가치관이 일치하는 유일한 파트너 \n●AGI 등장은 혁명적이기보단 점진적일 것",
+            "url": "https://themiilk.com/articles/a5498cea7",
+            "title": "샘 알트만이 직접 밝힌 GPT-4 \"늦더라도 완벽하게, 동영상까지\" ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/7f2b996e25/852f095d54_1678803959",
+            "date_modified": "2023-03-14T10:53:02.105Z",
+            "author": {
+                "name": "박윤미"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5807",
+            "content_html": "[투자노트 라이브] 2023년 3월 14일\n2월 소비자물가지수(CPI) 예상 부합...근원물가는 상승\n근원물가는 지난 10월 이후 고정적인 오름세 유지 \n신용평가사 무디스는 지역 은행에 대한 신용 등급 강등",
+            "url": "https://themiilk.com/articles/aaf3bad90",
+            "title": "소비자물가는 예상 부합...근원물가는 5개월 연속 그대로?",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/d56542b607/33ed550b3d_1678801378",
+            "date_modified": "2023-03-14T12:50:11.800Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5801",
+            "content_html": "●사람도 지구도 재현한다... ‘디지털 트윈' 대세\n●얼굴 잔털까지 똑같은 초실사 3D 디지털 아바타\n●반지의 제왕 '골룸' 탄생시킨 레밍턴 스콧이 설립 ",
+            "url": "https://themiilk.com/articles/a14626636",
+            "title": "나보다 더 나같은 메타버스 속 나: 하이퍼리얼",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/9408a6acc7/a36e427ccc_1678777890",
+            "date_modified": "2023-03-14T08:00:17.003Z",
+            "author": {
+                "name": "Hyerim Seo"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5798",
+            "content_html": "●안데르센 호로위츠가 투자한 최초의 스템(STEM) 가상현실 교육 스타트업\n●STEM 학습 성공 핵심인 '공간적 추론'과 '물리적 추상화' 능력 발달에 최적화 \n●VR 콘텐츠·멀티플레이어 샌드박스·학습 지원하는 대시보드 3가지가 핵심 \n",
+            "url": "https://themiilk.com/articles/a1372d8a6",
+            "title": "a16z가 투자한 메타버스 일타수학강의  스타트업 : 프리즘즈",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/55abe8a006/69cbc5fc36_1678773110",
+            "date_modified": "2023-03-14T06:00:17.405Z",
+            "author": {
+                "name": "김기림"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5797",
+            "content_html": "[SVB 사태 그 후] 파장은 끝나지 않았다\n●상업용 부동산, 다음 뇌관 될 수도... 익스포저 늘어\n●일본 금융기관 보유 미 국채 불안감... 금융주 급락\n●스타트업 대출 어려워질 듯... 기후 테크 여파 우려",
+            "url": "https://themiilk.com/articles/a8c61f9a7",
+            "title": "SVB 사태 글로벌 도미노 되나... 상업 부동산, 일본 그리고 기후테크",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/7ccfb7b5da/b3254adc2f_1678761689",
+            "date_modified": "2023-03-14T00:18:33.245Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5793",
+            "content_html": "[투자노트PM] 월가 투자의견\n▲살까? JP모건(JPM): 불확실한 시대에 공격과 방어가 모두 가능한 골리앗\n▲더살까? 애플(AAPL): 단기적인 우려는 있지만 장기적으로 긍정적인 촉매제 대기 \n▼그만살까? 테슬라(TSLA): 비용 우세로 인한 장기적 성장은 인정. 단기적인 불확실성 크다 ",
+            "url": "https://themiilk.com/articles/abe5b2728",
+            "title": "\"지금은 공격∙방어 가능한 골리앗이 이긴다. JP모건을 사라\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/4ee801bba4/fe7f20fe86_1678750415",
+            "date_modified": "2023-03-13T23:34:08.128Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5794",
+            "content_html": "[투자노트PM] 매크로 투자 인사이트\n●이번 주 핵심이슈 및 투자 키워드: SVB 사태, CPI, 그리고 연준\n●수익률 곡선의 급등 무엇을 의미하나?\n●투자전략: 마이크 윌슨, \"모든 반등에 매도하라\"",
+            "url": "https://themiilk.com/articles/a87bc3b27",
+            "title": "시장 뒤흔들 2대 키워드 : SVB 그리고 CPI",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/e2280e4baa/1148e8d031_1678750329",
+            "date_modified": "2023-03-13T23:32:27.600Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5791",
+            "content_html": "[투자노트 라이브] 2023년 3월 13일\n●골드만삭스, 3월 FOMC 회의 금리동결 가능성 전망\n●예금자 보호 대책에도 금융주 공포 확산하며 은행주 폭락 \n●미 국채금리는 금리동결 기대와 안전자산 선호심리로 폭락 ",
+            "url": "https://themiilk.com/articles/acb2965f3",
+            "title": "금융주 엑소더스... 골드만 \"3월 금리동결\" 전망",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/87fd97e86a/620390c0b6_1678750280",
+            "date_modified": "2023-03-13T23:31:44.948Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5783",
+            "content_html": "[위클리 커버스토리] 일리야 수츠케버 오픈AI 수석 과학자\n●신경망 이론화 딥러닝 대중화한 제프리 힌튼 교수의 수제자 \n●힌튼과 공동창업한 DNA리서치를 인수한 구글에서 AGI를 꿈꾸다 \n●200만 달러 구글 연봉 거절하고 인류 번영을 위해 오픈AI 선택\n●언어 생성 GPT와 이미지 생성 달리의 아버지\n●인류를 사랑하는 AGI를 만드는 것이 사명 \n",
+            "url": "https://themiilk.com/articles/a823fd8c4",
+            "title": "천재 AI 학자는 왜 26억원 구글 연봉 거절하고 오픈AI로 갔을까?",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/6aec13c87c/76d96a2d3b_1678686700",
+            "date_modified": "2023-03-13T05:00:17.000Z",
+            "author": {
+                "name": "김선우"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/5743",
+            "content_html": "●챗GPT 혁신을 실질적으로 이끈 인물은 미라 무라티 CTO \n●35세 알바니아계 미국인 여성, 오픈AI 이끌며 개방형 린 스타트업 전략 구사 \n●테슬라 자율주행 개발하다 2018년 합류, 연구실에 갇힌 천재 AI를 연구실 밖 개방형 AI로 이끌어\n●앞장서 규제 기관 개입 주장 \n●연내 공개될 GPT4에 대한 과장된 기대는 경계",
+            "url": "https://themiilk.com/articles/ae9cba856",
+            "title": "챗GPT 혁명은 마이너의 힘에서 나왔다 : 미라 무라티 오픈AI CTO",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/a8cee61e41/9cd687c669_1678413596",
+            "date_modified": "2023-03-09T16:29:59.747Z",
+            "author": {
+                "name": "송이라"
+            }
+        }
+    ]
+}
