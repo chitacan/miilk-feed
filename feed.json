@@ -1,0 +1,123 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "더밀크",
+    "home_page_url": "https://themiilk.com",
+    "description": "실리콘밸리 혁신 미디어. 더밀크는 미래 산업의 인사이트와 미국 주식 정보를 전달합니다.",
+    "icon": "https://assets.themiilk.com/favicon/apple-touch-icon.png",
+    "author": {
+        "name": "chitacan",
+        "url": "https://github.com/chitacan"
+    },
+    "items": [
+        {
+            "id": "https://themiilk.com/articles/8128",
+            "content_html": "미국, 한국 기업에 \"공장 지으라\" 해놓고 인력 충원은 나몰라라\n동맹국 칠레 1400명, 호주 1만 500명, 싱가포르 5400명 취업 비자..  한국은 0명\n5수 고배 한국인 전용 취업비자 'E-4' 발의 ... 올해는 통과될까? \n\"기업, 정부, 민간 비자동맹 위해 조직적으로 한 목소리 내야\"  ",
+            "url": "https://themiilk.com/articles/a312fc530",
+            "title": "한국, 미국에 수십조 투자하는데 왜 비자는 차별받나? ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/06d530e89b/e935419de0_1711629632",
+            "date_modified": "2024-03-28T12:41:05.317Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8146",
+            "content_html": "[기술과 관계] ① 연애에 완벽주의가 들어서다\n이젠 오프라인에서 만나는 게 특이한 시대\n넓어진 풀, 정교해진 취향…비독점관계, 데미섹슈얼 선호도 등장\n한번만 더 스와이프하면…관계를 집착하지 않는다",
+            "url": "https://themiilk.com/articles/aca89f572",
+            "title": "알고리즘, 사랑과 관계를 바꾼다... 앱은 필수, 만남은 선택",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/83c493af86/6b4e201730_1711618811",
+            "date_modified": "2024-03-28T09:33:09.724Z",
+            "author": {
+                "name": "Sejin Kim"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8148",
+            "content_html": "[롯데-더밀크 엘캠프 실리콘밸리] 이근우 진에딧 대표\n세쿼이아 캐피털 초기 투자 받은 실리콘밸리 바이오테크 기업\n일라이 릴리 비만 치료제 등 유전자 의약품 본격화 전망\n“인류 삶 바꾼다”... 힘들 때마다 창업 당시 비전 떠올려",
+            "url": "https://themiilk.com/articles/ae381fbae",
+            "title": "“유전자 프로그래밍으로 난치병 고친다”… 치료의 미래 ‘진에딧’",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/93a6dd42f9/be35e5c38e_1711651973",
+            "date_modified": "2024-03-28T18:53:49.168Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8147",
+            "content_html": "[투자노트 라이브] 2024년 3월 28일 \n크리스토퍼 월러, 뜨거운 시장에 찬물을 끼얹다 \nJP모건, \"가장 실적이 좋은 종목에 과도한 투자는 위험\"\n미 소비자심리, 물가 완화 기대로 3년 만에 최고치로 상승",
+            "url": "https://themiilk.com/articles/aa22e7ded",
+            "title": "연준과 JP모건, 시장 경고에 한 목소리...소비자는 룰루랄라 ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/12884b1ede/e6eaa067d4_1711639313",
+            "date_modified": "2024-03-28T15:22:22.505Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8145",
+            "content_html": "[오피니언] 유호현 토블AI 대표\n왜 AI는 나에게 큰 도움이 되지 않을까?\n현재의 AI를 업무에 유용하게 활용하는 방법",
+            "url": "https://themiilk.com/articles/ab0064b35",
+            "title": "AI가 내 업무를 100% 대체하지 못하는 이유",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/9ee88c2ec0/9c9c83da2b_1711617237",
+            "date_modified": "2024-03-28T09:10:07.258Z",
+            "author": {
+                "name": "유호현"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8144",
+            "content_html": "작년 12억5000달러 투자 이후 27억5000만달러 추가 투자\nMS·아마존·구글 ‘클라우드 서비스’ 빅테크, 생성 AI 투자 경쟁 격화",
+            "url": "https://themiilk.com/articles/aa81adcda",
+            "title": "아마존, 앤트로픽에 총 5.4조 투자 완료... 생성 AI 경쟁 가속",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/9e1abb4979/25cac90403_1711589325",
+            "date_modified": "2024-03-28T01:24:08.413Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8143",
+            "content_html": "개방형 최고 성능 AI 모델… 프로그래밍·수학 탁월\n세분화된 MoE가 핵심… 라마 대비 추론 최대 2배 빨라\n데이터브릭스, 고객에 API 통해 제공… 비용 더 싸진다",
+            "url": "https://themiilk.com/articles/aa161863a",
+            "title": "“미스트랄·라마2 뛰어넘었다” 데이터브릭스, DBRX 출시... 의미는?",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/4df80a8521/106b6ccb36_1711573601",
+            "date_modified": "2024-03-27T21:07:32.213Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8141",
+            "content_html": "[투자노트 라이브] 2024년 3월 27일 \n골드만, \"연기금 리밸런싱으로 320억 주식 매도\"\n일본의 금리인상..금융시장에 천천히 다가오는 쓰나미된다 \n미 원유 재고 증가에도 긍정적 분위기...\"유가 배럴당 100달러?\"",
+            "url": "https://themiilk.com/articles/a74f1e514",
+            "title": "골드만삭스, \"리밸런싱 시즌 시작...연기금 320억 달러 매각\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/d589d4a77a/0dd99d25b5_1711549248",
+            "date_modified": "2024-03-27T14:21:00.606Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8139",
+            "content_html": "더밀크와 갤럭시코퍼레이션이 공동 주최한 '제1회 엔터테크 포럼' 성료\n'엔터테인먼트 콘텐츠와 기술 산업의 미래 조명'이라는 주제로 AI가 이끌어갈 미래 엔터 시장 조망",
+            "url": "https://themiilk.com/articles/ab69c59c9",
+            "title": "\"생성AI가 콘텐츠와 기술을 하나로 만들고 있다\" 엔터테크 포럼",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/f8bb2443b1/5e74bc04aa_1711536170",
+            "date_modified": "2024-03-27T10:44:00.461Z",
+            "author": {
+                "name": "김기림"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8098",
+            "content_html": "[뷰스레터플러스]\n\"특이점이 가까이 온다. 5년안에 AGI 달성\"   \nAMD 리사 수 \"AI PC 시대 임박\"\n콘텐츠의 미래? AI와 메타버스 구분 의미없다",
+            "url": "https://themiilk.com/articles/a2ff8f9e0",
+            "title": "SXSW에서 본 미래: 특이점 더 가까이 왔다   ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/209c0ff5f8/9d229bda87_1711313968",
+            "date_modified": "2024-03-20T01:39:50.894Z",
+            "author": {
+                "name": "권순우 "
+            }
+        }
+    ]
+}
