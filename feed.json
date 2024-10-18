@@ -1,0 +1,123 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "더밀크",
+    "home_page_url": "https://themiilk.com",
+    "description": "실리콘밸리 혁신 미디어. 더밀크는 미래 산업의 인사이트와 미국 주식 정보를 전달합니다.",
+    "icon": "https://assets.themiilk.com/favicon/apple-touch-icon.png",
+    "author": {
+        "name": "chitacan",
+        "url": "https://github.com/chitacan"
+    },
+    "items": [
+        {
+            "id": "https://themiilk.com/articles/8925",
+            "content_html": "[투자노트 라이브] 2024년 10월 17일 \nTSMC, 강력한 AI 수요로 순이익과 매출 그리고 마진이 모두 증가 \n9월 소매판매, 예상보다 강하게 집계되며 견고한 소비 지출 시사 \nBofA FMS 서베이, 투자자 심리는 2020년 이후 최고치로 상승 ",
+            "url": "https://themiilk.com/articles/a27c9cffc",
+            "title": "실적, 지표, 통화정책까지 완벽? FMS 투자자 심리 2020년 이후 가장 높다!",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/fe12bc37e8/84829369a7_1729201300",
+            "date_modified": "2024-10-17T20:19:06.291Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8924",
+            "content_html": "[테크브리핑] \n가공식품, 건강식으로 리브랜딩 중\n네슬레 GLP-1 복용자 타겟 식품군 출시\n'천연 오젬픽∙오젬픽 부스터?' 비만약도 리브랜딩 중",
+            "url": "https://themiilk.com/articles/a51f61c5f",
+            "title": "GLP-1 열풍에 푸드 산업도 대격변... 효과 있나?",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/a5fee658ba/2bd8681add_1729177908",
+            "date_modified": "2024-10-16T22:31:25.582Z",
+            "author": {
+                "name": "Sejin Kim"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8926",
+            "content_html": "[더밀크알파] 부채의 시대, 대체 자산으로의 전환 \n연방 부채 이자만 1조 달러...'천조국'은 이제 '부채국'으로 \"이자의 시대\"\n막대한 부채 감당할 방법은 결국 '부채 상환 전략' 뿐...인플레이션 유지될 것 \n레이 달리오, \"채권 버리고 이것 사라\"...JP모건은 \"화폐 가치 하락 전략의 부상\"",
+            "url": "https://themiilk.com/articles/a337904ad",
+            "title": "레이 달리오가 채권을 버리는 이유...\"부채의 시대, 이 자산만이 답이다\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/488ac9bee0/2a601a8b64_1729202141",
+            "date_modified": "2024-10-17T21:55:49.848Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8920",
+            "content_html": "[투자노트 라이브] 2024년 10월 16일 \nASML, 예상보다 부진한 실적과 전망에 반도체 급락 \n모건스탠리, 투자 거래 수요의 증가로 매출과 이익 예상 상회 \nLVMH, 중국 시장의 수요 감소를 보고하며 하락 ",
+            "url": "https://themiilk.com/articles/ae488036f",
+            "title": "결국 원자력이 답이다? 아마존도 AWS위해 원자력에 5억 달러 투자 ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/5dbff0078f/869e8df788_1729109239",
+            "date_modified": "2024-10-16T20:07:30.061Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8922",
+            "content_html": "[위클리AI브리핑] 2024년 10월 9일~10월 15일 \n🏎️테슬라 ‘사이버캡’을 바라보는 4가지 관점\n🔮앤트로픽 CEO “AI가 바꿀 5대 분야는…”\n🎬영상은 이제 AI가 만든다... 어도비 등판 \n💡이주의 인사이트: 2025, 이 기업을 주목하라\n➕더밀크가 주목한 뉴스 ",
+            "url": "https://themiilk.com/articles/a3c3a3612",
+            "title": "일론 머스크는 결국 해낸다?... 미래에 베팅하라",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/4ae8a8b611/003388e133_1729119192",
+            "date_modified": "2024-10-16T18:56:29.496Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8921",
+            "content_html": "[투자노트] ASML 실적 브리핑 및 월가 투자의견 \nASML은 어떤 기업이길래 반도체의 '슈퍼을'이라 불리나?\n전통 반도체 부문 회복 더디다...중국에 대한 규제도 걸림돌 \n월가는 \"확실히 실망스럽다\"...반등 주도할 추천주로 5개 기업 제시 ",
+            "url": "https://themiilk.com/articles/aa278cc66",
+            "title": "반도체 트렌드에 변화온다...씨티, \"피해야 할 기업과 매수해야 할 기업\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/8a0f8717b6/b50352016f_1729177780",
+            "date_modified": "2024-10-16T18:30:40.723Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8919",
+            "content_html": "SNS 홍보 전략, 기업에서 CEO 개인으로\n회사 소식∙직원 이야기 등 위주지만 개인적 이야기 연결도 대세\n임원 콘텐츠 중 가장 인기 포맷은 영상\nCEO의 브랜딩 활동, 리스크도 크다\n더밀크의 시각: CEO 영상, 기업 홍보의 새로운 언어",
+            "url": "https://themiilk.com/articles/a73604e33",
+            "title": "왜 미국은 CEO 창업자가 직접 글을 쓰고 올리나?... 마케팅 효과 4배",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/d27bf0aa56/15f137a832_1729059437",
+            "date_modified": "2024-10-16T06:18:05.250Z",
+            "author": {
+                "name": "Sejin Kim"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8918",
+            "content_html": "다리오 아모데이 CEO, 강력한 AI 도래 시기 및 미래 전망 밝혀\nAI가 세상을 더 나은 곳으로 변화시키는 방법 강조\n생물학, 신경과학, 경제 등 다양한 주제 심도 있게 예측",
+            "url": "https://themiilk.com/articles/adf0464ca",
+            "title": "[전문] 앤트로픽 CEO의 미래 예측... “AI가 바꿀 5대 분야는 이것”",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/3efd1230dd/c57ac2ebfd_1729022476",
+            "date_modified": "2024-10-15T17:16:14.774Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8741",
+            "content_html": "[트렌드쇼 2025] \n2025년 테크 및 경영 트렌드를 한눈에 전망하는 트렌드쇼2025  \n10월 19일 서울 코엑스, 24일 대구 엑스코서  각각 열려 \n미국 진출 및 CES2025 전망 세미나도 포함   ",
+            "url": "https://themiilk.com/articles/a2684ba42",
+            "title": "2025년을 지배할 테크트렌드, 이 세가지입니다       ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/445273e3a2/2e47cb319a_1729064937",
+            "date_modified": "2024-09-01T21:05:23.967Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8849",
+            "content_html": "[뷰스레터플러스]\nGLP-1, 체중 감량 넘어선 잠재력\n반값 체중 감량 주사...판도 바꿀까?\nGLP-1 혁명, 시장은 무엇을 준비해야 할까?",
+            "url": "https://themiilk.com/articles/a5a26bc1e",
+            "title": "아스피린 이후 최대 의약혁명: GLP-1",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/aa121e4bf0/0a2736ed0d_1727358802",
+            "date_modified": "2024-09-26T13:54:01.403Z",
+            "author": {
+                "name": "한연선"
+            }
+        }
+    ]
+}
