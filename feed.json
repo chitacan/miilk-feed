@@ -1,0 +1,123 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "더밀크",
+    "home_page_url": "https://themiilk.com",
+    "description": "실리콘밸리 혁신 미디어. 더밀크는 미래 산업의 인사이트와 미국 주식 정보를 전달합니다.",
+    "icon": "https://assets.themiilk.com/favicon/apple-touch-icon.png",
+    "author": {
+        "name": "chitacan",
+        "url": "https://github.com/chitacan"
+    },
+    "items": [
+        {
+            "id": "https://themiilk.com/articles/8943",
+            "content_html": "[투자노트 라이브] 2024년 10월 21일 \n보잉, 노조와 임금 인상 합의로 파업 종료...자산 매각 검토 \n3분기 어닝시즌, 약 79%의 기업들이 이익 상회...미래 이익 전망 상향 \n골드만삭스, 향후 10년간 미국 주식 연평균 수익률 3%로 하향 조정 ",
+            "url": "https://themiilk.com/articles/a1a32f23e",
+            "title": "골드만삭스, \"빅테크와 미국 주식...이제 큰 상승장은 없을 것\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/c24cdb12ec/756f7af972_1729520276",
+            "date_modified": "2024-10-21T14:18:05.050Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8936",
+            "content_html": "[트렌드쇼2025 패널토의] 이정동 서울대 공대 교수, 주영섭 특임교수\n\"인공지능(AI) 경쟁은 '쩐의 전쟁' ... 한국, 산업 AX서 답 찾아야\"  \n\"패스트 팔로어 전략 안 먹혀... 인류에게 전할 메시지의 혁신 있어야\" \n\"공공 서비스 수준에서 선진국 갈려... AI가 공공 영역에서 큰 영향 미칠 것\"",
+            "url": "https://themiilk.com/articles/ad0ae553b",
+            "title": "[특별대담] 패스트 팔로어 안먹혀... 한국은 AI로 무엇을 해결하려는가?",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/91dd60d0d1/4db0b602a2_1729465151",
+            "date_modified": "2024-10-20T22:59:40.375Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8942",
+            "content_html": "[Branded Content] \nWebcash, a Leading B2B Fintech Company, Launches AI CFO Assistant AICFO  \nAI-powered financial assistant offers 24/7 real-time monitoring of company finances  ",
+            "url": "https://themiilk.com/articles/a36699ea5",
+            "title": "Webcash's AICFO Offers Real-Time Runway Management Like ChatGPT   ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/00f6203fd9/d221fa604e_1729497370",
+            "date_modified": "2024-10-21T09:05:42.826Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8941",
+            "content_html": "[브랜디드 콘텐츠] B2B 핀테크 전문 웹케시, AI 자금비서 AICFO 론칭  \n자금 현황 24시간 모니터링 가능한 AI재무비서 \n프롬프트에 묻거나 음성으로도 실시간 자금현황 보고 \n\"3년간 100억원 투자…이상거래 보고해 횡령사고 예방\" ",
+            "url": "https://themiilk.com/articles/aa4b5c8ca",
+            "title": "런웨이 관리? '챗GPT'처럼 묻기만 하면 실시간으로 보고... 웹케시 AICFO  ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/fdea88dcb8/98ce7f456b_1729493597",
+            "date_modified": "2024-10-21T09:05:07.938Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8940",
+            "content_html": "[밀키스레터 185호] 반도체와 에너지, 그리고 금과 비트코인을 보는 이유\n반도체 트렌드의 변화..이렇게 갈린다\n에너지의 대전환? 에너지의 확장!\n레이 달리오, \"부채의 시대, 채권의 가치는...\"",
+            "url": "https://themiilk.com/articles/a72152bbd",
+            "title": "무너지는 화폐의 가치...금과 비트코인의 구조적 강세장 온다 ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/a4c54588f5/f45509e37b_1729474690",
+            "date_modified": "2024-10-21T01:38:22.148Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8939",
+            "content_html": "[트렌드쇼2025] 정지훈 Asia2G 캐피털 파트너 강연\n2025년, 다섯 가지 AI 핵심 키워드가 큰 변화를 이끌 것\n실시간 비디오 생성 등 고급 기술로 콘텐츠 제작 방식 혁신",
+            "url": "https://themiilk.com/articles/aa7358e61",
+            "title": "“도우미에서 파트너로”... 2025 AI 트렌드 ‘5대 핵심 키워드’",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/3be1f86980/2923471542_1729459643",
+            "date_modified": "2024-10-20T21:29:17.535Z",
+            "author": {
+                "name": "김기림"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8937",
+            "content_html": "[트렌드쇼2025] 김현우 KAIST 생명공학과 교수 강연\n비만치료제로서 GLP-1의 효능과 부작용... 공급량 확장으로 대중화 눈 앞\nGLP-1 다음 단계는?... “효과 유지, 경구 투여약 개발 등으로 이어질 것”",
+            "url": "https://themiilk.com/articles/a86d84f2f",
+            "title": "‘GLP-1 혁명’ 비만 넘어 헬스케어 바꾼다... 다음 단계는? ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/7e2a4e08a9/3f9f0f6289_1729458810",
+            "date_modified": "2024-10-20T21:03:32.365Z",
+            "author": {
+                "name": "한연선"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8935",
+            "content_html": "[2024 NYC 스타트업 서밋] 한국 기업의 숙제 ‘작은 자본 시장’\n미국과 한국 투자자 차이는 리스크 대하는 자세\n미국 VC가 주목하는 것 '말도 안되는 비즈니스'\n‘실리콘앨리’ 뉴욕에 오픈AI도 온다",
+            "url": "https://themiilk.com/articles/aed2741ff",
+            "title": "\"말 안 되는 아이디어에 베팅할 때 큰 성공이 온다\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/7b7c275329/2c55cf6215_1729433897",
+            "date_modified": "2024-10-19T14:27:44.552Z",
+            "author": {
+                "name": "Sejin Kim"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8917",
+            "content_html": "CES2025 공식 미디어 파트너 더밀크 통해 단독 프리뷰 영상 공개\n10월 18일(금) 서울 코엑스, 24일(목) 대구 엑스코서  열리는 트렌드쇼2025서 \n‘미래의 문을 여는 CES2025’ 주제… 달라진 이벤트, 새로운 혁신기술 등 소개 ",
+            "url": "https://themiilk.com/articles/ae87abf62",
+            "title": "[단독]게리 샤피로 CEO, 트렌드쇼서 CES2025 프리뷰 첫 공개       ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/18a489210c/2be1dc46b0_1729120932",
+            "date_modified": "2024-10-15T08:45:19.264Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8915",
+            "content_html": "[더밀크 X 옥스포드클럽] 글로벌 투자 네트워크 론칭\n30년 전통의 글로벌 투자 네트워크 옥스포드 클럽, 더밀크와 협력 \n130개국에서 100만 명 이상의 구독자를 보유한 투자 네트워크\n마크 리히텐펠트의 10+11+12 전략으로 안정적인 배당 소득을 통한 자산 증식",
+            "url": "https://themiilk.com/articles/add2208f5",
+            "title": "30년 전통 글로벌 투자자 네트워크 옥스포드 클럽, 한국 진출",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/a9eb92c146/9f9c1698c6_1728780782",
+            "date_modified": "2024-10-13T00:53:49.845Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        }
+    ]
+}
