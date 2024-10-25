@@ -1,0 +1,123 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "더밀크",
+    "home_page_url": "https://themiilk.com",
+    "description": "실리콘밸리 혁신 미디어. 더밀크는 미래 산업의 인사이트와 미국 주식 정보를 전달합니다.",
+    "icon": "https://assets.themiilk.com/favicon/apple-touch-icon.png",
+    "author": {
+        "name": "chitacan",
+        "url": "https://github.com/chitacan"
+    },
+    "items": [
+        {
+            "id": "https://themiilk.com/articles/8967",
+            "content_html": "[투자노트 라이브] 2024년 10월 24일 \n테슬라의 강력한 실적과 전망에 기술 주도의 나스닥 강세 전환 \nS&P 글로벌 구매관리자지수는 서비스와 제조업 모두 예상 상회 \n2024 미 대선은 박빙의 접전을 보이는 가운데 트럼프가 소폭 우세 ",
+            "url": "https://themiilk.com/articles/a0dda68ce",
+            "title": "박빙의 미 대선...경제와 인플레이션 분야에서는 트럼프가 압도적 ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/5dd024c7cf/69b5053288_1729809222",
+            "date_modified": "2024-10-24T22:34:12.218Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8966",
+            "content_html": "앤트로픽, AI가 알아서 컴퓨터 조작하는 기능 ‘컴퓨터 사용’ 공개\n화면 캡처해 분석한 후 키보드 버튼 누르고 마우스 커서 이동\n애플 인텔리전스도 공개 앞둬... 빅테크, 일제히 AI 에이전트 출시\n더밀크의 시각: 인간 보조 넘어 대체 가능한 수준... 변화 대비해야",
+            "url": "https://themiilk.com/articles/ae7697100",
+            "title": "화면보며 스스로 PC 조작… AI 에이전트가 몰려온다",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/53c1a56167/9e3dddf124_1729787189",
+            "date_modified": "2024-10-24T16:27:13.829Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8968",
+            "content_html": "[트렌드쇼2025] 오건영 신한은행 패스파인더 단장 강연\n금리와 달러 가치의 변화... 새로운 경제 패턴의 등장에 주목 \n생산성의 혁신이 경제 회복력과 경쟁력을 유지하는 핵심 열쇠가 될 것 \n고물가, 고금리, 고환율의 시대를 넘어서: 새로운 경제 패러다임의 도래",
+            "url": "https://themiilk.com/articles/affee1892",
+            "title": "오건영 \"정보 민주화로 투자 군집행동 발생\"... 이렇게 대응하라",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/1c6bc4b3fa/1e7adaa5dc_1729812550",
+            "date_modified": "2024-10-24T23:29:36.971Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8965",
+            "content_html": "[분석과 대안] 미 제조업의 위기가 한국에 주는 시사점\n삼성전자 위기... 무엇을 봐야 하나? \nGE의 해체 : 혁신과 방향성의 상실\n인텔의 몰락: 기술 리더십의 상실\n보잉의 추락: 품질과 신뢰의 상실",
+            "url": "https://themiilk.com/articles/a31f2cb42",
+            "title": "미 제조업 3대장... GE, 인텔, 보잉의 몰락은 삼성에 무엇을 말해주나?",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/91a28040fa/0dbce592d2_1729781392",
+            "date_modified": "2024-10-24T12:53:01.617Z",
+            "author": {
+                "name": "Sejin Kim"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8963",
+            "content_html": "[투자노트] 테슬라 3분기 실적 분석 및 월가 투자의견 \n테슬라 3분기, 수익과 성장에 대한 우려 덜어냈다 \n시장이 주목한 3대 헤드라인: 수익성 개선, 수요 회복, 그리고 차세대 모델\n월가 투자의견: 긍정적 보고서로 실적의 바닥이 끝났다...FSD/로보택시는 아직 의문 ",
+            "url": "https://themiilk.com/articles/afc918dcb",
+            "title": "테슬라 실적에 엇갈리는 월가, \"바닥 벗어났다. 최대 의문은...\"",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/103301ada2/3d0b3cdee0_1729771637",
+            "date_modified": "2024-10-24T12:07:28.754Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8964",
+            "content_html": "[CES2025] 에드 바스티안 델타항공 CEO\n깜짝 발표∙스피어 기술 결합한 퍼포먼스 기대감    ",
+            "url": "https://themiilk.com/articles/a20deb7b3",
+            "title": "델타항공 CEO, ‘스피어’서 첫 CES 기조연설",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/8aaed7d725/8da46fcdff_1729763128",
+            "date_modified": "2024-10-23T22:47:31.615Z",
+            "author": {
+                "name": "Sejin Kim"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8961",
+            "content_html": "[투자노트 라이브] 2024년 10월 23일 \n국제통화기금(IMF)는 내년 글로벌 성장률 전망치를 하향 조정\n맥도날드, 쿼터파운더 버거의 식중독 사태로 1명 사망하며 주가 급락 \n코카콜라, 견고한 실적과 전망에도 통화 역풍으로 인한 수익 악화 전망 ",
+            "url": "https://themiilk.com/articles/a1c0d08c4",
+            "title": "금리인하에도 금리가 오르는 이유는?...강달러 역풍 기업 흔들기 시작했다 ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/7d157af2ac/ef35e8973b_1729717528",
+            "date_modified": "2024-10-23T21:05:40.210Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8962",
+            "content_html": "[위클리AI브리핑] 2024년 10월 16일~10월 22일 \n🪙샘 알트만과 월드코인의 3대 전략\n🧞뤼튼의 비전: 컨슈머AI와 액션 에이전트 \n🤖‘스스로 일한다’ MS, 자율 에이전트 발표\n💡이주의 인사이트: 일잘러 정의 바뀐다\n➕더밀크가 주목한 뉴스 ",
+            "url": "https://themiilk.com/articles/a061e4080",
+            "title": "당신은 인간입니까?... AI 에이전트로 바뀌는 세상",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/465e8b3d0b/8f9eacde64_1729726383",
+            "date_modified": "2024-10-23T18:43:26.703Z",
+            "author": {
+                "name": "박원익"
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8917",
+            "content_html": "CES2025 공식 미디어 파트너 더밀크 통해 단독 프리뷰 영상 공개\n10월 18일(금) 서울 코엑스, 24일(목) 대구 엑스코서  열리는 트렌드쇼2025서 \n‘미래의 문을 여는 CES2025’ 주제… 달라진 이벤트, 새로운 혁신기술 등 소개 ",
+            "url": "https://themiilk.com/articles/ae87abf62",
+            "title": "[단독]게리 샤피로 CEO, 트렌드쇼서 CES2025 프리뷰 첫 공개       ",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/18a489210c/2be1dc46b0_1729120932",
+            "date_modified": "2024-10-15T08:45:19.264Z",
+            "author": {
+                "name": "권순우 "
+            }
+        },
+        {
+            "id": "https://themiilk.com/articles/8915",
+            "content_html": "[더밀크 X 옥스포드클럽] 글로벌 투자 네트워크 론칭\n30년 전통의 글로벌 투자 네트워크 옥스포드 클럽, 더밀크와 협력 \n130개국에서 100만 명 이상의 구독자를 보유한 투자 네트워크\n마크 리히텐펠트의 10+11+12 전략으로 안정적인 배당 소득을 통한 자산 증식",
+            "url": "https://themiilk.com/articles/add2208f5",
+            "title": "30년 전통 글로벌 투자자 네트워크 옥스포드 클럽, 한국 진출",
+            "image": "https://dsi523du1o5iq.cloudfront.net/fit-in/320x0/production/article/a9eb92c146/9f9c1698c6_1728780782",
+            "date_modified": "2024-10-13T00:53:49.845Z",
+            "author": {
+                "name": "크리스 정"
+            }
+        }
+    ]
+}
